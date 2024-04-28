@@ -103,11 +103,11 @@ dist
 # TernJS port file
 .tern-port
 
-# macOS
-.DS_Store
-
 # python
 pycache/
+
+# macOS
+.DS_Store
 
 # VSCode
 .vscode/launch.json

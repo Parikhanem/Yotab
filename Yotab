@@ -44,11 +44,11 @@ jspm_packages/
 # TypeScript v1 declaration files
 typings/
 
-# TypeScript cache
-*.tsbuildinfo
-
 # Optional npm cache directory
 .npm
+
+# TypeScript cache
+*.tsbuildinfo
 
 # Optional eslint cache
 .eslintcache

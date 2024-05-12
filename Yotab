@@ -106,9 +106,6 @@ dist
 # python
 pycache/
 
-# macOS
-.DS_Store
-
 # VSCode
 .vscode/launch.json
 packages/protocol/config.js
@@ -118,5 +115,6 @@ packages/protocol/config.js
 # backwards compatibility for past contributors
 .husky
 
-
+# macOS
+.DS_Store
 

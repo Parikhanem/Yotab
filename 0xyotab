@@ -1,0 +1,4 @@
+echo "Push 3" > file3.txt
+git add file3.txt
+git commit -m "Third push"
+git push

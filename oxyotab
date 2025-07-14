@@ -1,0 +1,4 @@
+echo "Push 4" > file4.txt
+git add file4.txt
+git commit -m "Fourth push"
+git push
